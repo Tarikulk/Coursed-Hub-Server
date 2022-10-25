@@ -1,0 +1,32 @@
+[
+    {
+      "id": "01",
+      "name": "JavaScript",
+      "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+    },
+    {
+      "id": "02",
+      "name": "HTML",
+      "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+    },
+    {
+      "id": "03",
+      "name": "CSS",
+      "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+    },
+    {
+      "id": "04",
+      "name": "Bootstrap",
+      "img": "https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5-Facebbok.png"
+    },
+    {
+      "id": "05",
+      "name": "Tailwind CSS",
+      "img": "https://wp.5balloons.info/wp-content/uploads/2022/06/install-tailwindcss.png"
+    },
+    {
+      "id": "06",
+      "name": "React",
+      "img": "Reacthttps://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"
+    } 
+  ]  
