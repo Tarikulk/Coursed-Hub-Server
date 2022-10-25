@@ -1,0 +1,325 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a", 
+      "category_id": "01",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 488,
+      "title": "Welcome To The Javascript Tutorial Part 1",
+      "author": {
+        "name": "Part 1",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+      }, 
+      "details": "JavaScript is the world's most popular programming language JavaScript is the programming language of the Web.  JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b", 
+      "category_id": "03",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 488,
+      "title": "Welcome To CSS3 Tutorial Part 1",
+      "author": {
+        "name": "Part 1",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+      }, 
+      "details": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced. This CSS tutorial contains hundreds of CSS examples. With our online editor, you can edit the CSS, and click on a button to view the result."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011", 
+      "category_id": "01",
+      "rating": { "number": 4.8, "price": "$90" },
+      "total_view": 400,
+      "title": "Welcome To The Javascript Tutorial Part 2",
+      "author": {
+        "name": "Part 2",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+      }, 
+      "details": "JavaScript and Java are completely different languages, both in concept and design. JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997. ECMA-262 is the official name of the standard. ECMAScript is the official name of the language."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.3, "price": "$90" },
+      "total_view": 400,
+      "title": "Welcome To HTML Tutorial Part 1",
+      "author": {
+        "name": "Part 1",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+      }, 
+      "details": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!"
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9", 
+      "category_id": "03",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 980,
+      "title": "Welcome To CSS3 Tutorial Part 2",
+      "author": {
+        "name": "Part 2",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      }, 
+      "details": "CSS stands for Cascading Style Sheets CSS describes how HTML elements are to be displayed on screen, paper, or in other media CSS saves a lot of work. It can control the layout of multiple web pages all at once  External stylesheets are stored in CSS files. HTML was NEVER intended to contain tags for formatting a web page!.  HTML was created to describe the content of a web page, like: <h1>This is a heading</h1> <p>This is a paragraph.</p> When tags like <font>, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large websites, where fonts and color information were added to every single page, became a long and expensive process. To solve this problem, the World Wide Web Consortium (W3C) created CSS. CSS removed the style formatting from the HTML page!"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0", 
+      "category_id": "01",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 980,
+      "title": "Welcome To The Javascript Tutorial Part 3",
+      "author": {
+        "name": "Part 3",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+      }, 
+      "details": "In HTML, JavaScript code is inserted between <script> and </script> tags. Old JavaScript examples may use a type attribute: <script type ='text/javascript'> The type attribute is not required. JavaScript is the default scripting language in HTML. A JavaScript function is a block of JavaScript code, that can be executed when 'called' for. For example, a function can be called when an event occurs, like when the user clicks a button. You will learn much more about functions and events in later chapters."
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745", 
+      "category_id": "02",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": null,
+      "title": "Welcome To HTML Tutorial Part 2",
+      "author": {
+        "name": "Part 2",
+        "published_date": "2022-08-30 15:00:04",
+        "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+      }, 
+      "details": "HTML stands for Hyper Text Markup Language HTML is the standard markup language for creating Web pages HTML describes the structure of a Web page  HTML consists of a series of elements HTML elements tell the browser how to display the content HTML elements label pieces of content such as 'this is a heading', 'this is a paragraph', 'this is a link', etc."
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e", 
+      "category_id": "03",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 111,
+      "title": "Welcome To CSS3 Tutorial Part 3",
+      "author": {
+        "name": "Part 3",
+        "published_date": null,
+        "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+      }, 
+      "details": "The selector points to the HTML element you want to style.  The declaration block contains one or more declarations separated by semicolons. Each declaration includes a CSS property name and a value, separated by a colon. Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces."
+    },
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900", 
+      "category_id": "04",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 733,
+      "title": "Welcome To Bootstrap Tutorial Part 1",
+      "author": {
+        "name": "Part 1",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5-Facebbok.png"
+      }, 
+      "details": "Bootstrap is a free front-end framework for faster and easier web development  Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins Bootstrap also gives you the ability to easily create responsive designs"
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901", 
+      "category_id": "04",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 733,
+      "title": "Welcome To Bootstrap Tutorial Part 2",
+      "author": {
+        "name": "Part 2",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5-Facebbok.png"
+      }, 
+      "details": "One advantage of using the Bootstrap 5 CDN:  Many users already have downloaded Bootstrap 5 from jsDelivr when visiting another site. As a result, it will be loaded from cache when they visit your site, which leads to faster loading time. Also, most CDN's will make sure that once a user requests a file from it, it will be served from the server closest to them, which also leads to faster loading time.  JavaScript? Bootstrap 5 use JavaScript for different components (like modals, tooltips, popovers etc). However, if you just use the CSS part of Bootstrap, you don't need them."
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3", 
+      "category_id": "05",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 127,
+      "title": "Welcome Tailwind CSS Part 1",
+      "author": {
+        "name": "Part 1",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://wp.5balloons.info/wp-content/uploads/2022/06/install-tailwindcss.png"
+      }, 
+      "details": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file. It's fast, flexible, and reliable — with zero-runtime."
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4", 
+      "category_id": "05",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 127,
+      "title": "Welcome Tailwind CSS Part 2",
+      "author": {
+        "name": "Part 2",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://wp.5balloons.info/wp-content/uploads/2022/06/install-tailwindcss.png"
+      }, 
+      "details": "The simplest and fastest way to get up and running with Tailwind CSS from scratch is with the Tailwind CLI tool. The CLI is also available as a standalone executable if you want to use it without installing Node.js. 1. Install Tailwind CSS Install tailwindcss via npm, and create your tailwind.config.js file. 2. Add the paths to all of your template files in your tailwind.config.js file. 3. Add the @tailwind directives for each of Tailwind’s layers to your main CSS file. 4. Run the CLI tool to scan your template files for classes and build your CSS. 5. Add your compiled CSS file to the <head> and start using Tailwind’s utility classes to style your content."
+    },
+
+    {
+      "_id": "cd2b53655737cc4077542baea9f8f75d", 
+      "category_id": "02",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 700,
+      "title": "Welcome To HTML Tutorial Part 3",
+      "author": {
+        "name": "Part 3",
+        "published_date": "2022-08-30 20:02:52",
+        "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+      }, 
+      "details": "he <!DOCTYPE html> declaration defines that this document is an HTML5 document The <html> element is the root element of an HTML page The <head> element contains meta information about the HTML page The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. The <p> element defines a paragraph"
+    },
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb", 
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 300,
+      "title": "Welcome React Tutorial Part 1",
+      "author": {
+        "name": "Part 1",
+        "published_date": "2022-08-24 22:30:00",
+        "img": "Reacthttps://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"
+      }, 
+      "details": "React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started."
+    },
+    {
+      "_id": "7c4dfea0fafddc813673282a428429b7", 
+      "category_id": "01",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 0,
+      "title": "Welcome To The Javascript Tutorial Part 4",
+      "author": {
+        "name": "Part 4",
+        "published_date": "2022-08-25 03:09:16",
+        "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+      }, 
+      "details": "JavaScript can 'display' data in different ways:   Writing into an HTML element, using innerHTML. Writing into the HTML output using document.write(). Writing into an alert box, using window.alert(). Writing into the browser console, using console.log(). To access an HTML element, JavaScript can use the document.getElementById(id) method.The id attribute defines the HTML element. The innerHTML property defines the HTML content:"
+    },
+    {
+      "_id": "30af81e91ab3eafc0bcae0de62f55d5c", 
+      "category_id": "01",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 320,
+      "title": "Welcome To The Javascript Tutorial Part 5",
+      "author": {
+        "name": "Part 5",
+        "published_date": "2022-08-25 07:35:11",
+        "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+      }, 
+      "details": "A computer program is a list of 'instructions' to be 'executed' by a computer. In a programming language, these programming instructions are called statements. A JavaScript program is a list of programming statements. In HTML, JavaScript programs are executed by the web browser.Most JavaScript programs contain many JavaScript statements. The statements are executed, one by one, in the same order as they are written. JavaScript programs (and JavaScript statements) are often called JavaScript code."
+    },
+    {
+      "_id": "df11ff9feefc37613cc3a4486ce02151", 
+      "category_id": "02",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 552,
+      "title": "Welcome To HTML Tutorial Part 4",
+      "author": {
+        "name": "Part 4",
+        "published_date": "2022-08-27 05:38:02",
+        "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+      }, 
+      "details": "Web pages can be created and modified by using professional HTML editors. However, for learning HTML we recommend a simple text editor like Notepad (PC) or TextEdit (Mac). We believe that using a simple text editor is a good way to learn HTML.  Follow the steps below to create your first web page with Notepad or TextEdit."
+    },
+    {
+      "_id": "919db97c34e0778b387dd40cdfa08130", 
+      "category_id": "01",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 89,
+      "title": "Welcome To The Javascript Tutorial Part 6",
+      "author": {
+        "name": "Part 6",
+        "published_date": "2022-08-30 18:05:42",
+        "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+      }, 
+      "details": "Last month, Moscow announced plans to hold   Vostok   (East) exercises from Aug. 30 to Sept. 5, even as it wages a costly war in Ukraine. The military exercises are expected to include China, India, Belarus, Mongolia, Tajikistan and other countries, China's defense ministry has said. Asked about India's participation, Jean-Pierre told reporters as President Joe Biden flew to Pennsylvania that the United States was concerned about any country participating in military exercises with Russia while it is at war with Ukraine."
+    }, 
+    {
+      "_id": "acb9b6785b62698fc6130db7615965e1", 
+      "category_id": "03",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 879,
+      "title": "Welcome To CSS3 Tutorial Part 4",
+      "author": {
+        "name": "Part 4",
+        "published_date": "2022-08-25 11:53:13",
+        "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+      }, 
+      "details": "CSS selectors are used to 'find' (or select) the HTML elements you want to style. We can divide CSS selectors into five categories: Simple selectors (select elements based on name, id, class) Combinator selectors (select elements based on a specific relationship between them)  Pseudo-class selectors (selectelements based on a certain state)Pseudo-elements selectors (select and style a part of an element)  Attribute selectors (select elements based on an attribute or attribute value)"
+    }, 
+    {
+      "_id": "1b03149c50f1bec662062d930bf46489", 
+      "category_id": "02",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 546,
+      "title": "Welcome To HTML Tutorial Part 5",
+      "author": {
+        "name": "Part 5",
+        "published_date": "2022-08-30 22:00:00",
+        "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+      }, 
+      "details": "In this chapter we will show some basic HTML examples.  Don't worry if we use tags you have not learned about yet. All HTML documents must start with a document type declaration: <!DOCTYPE html>. The HTML document itself begins with <html> and ends with </html>. The visible part of the HTML document is between <body> and </body>. <!DOCTYPE html> <html>  <body>  <h1>My First Heading</h1> <p>My first paragraph.</p>  <body> </html>"
+    },
+    {
+      "_id": "7f5b80c1cdd4df0111918883eae07349", 
+      "category_id": "03",
+      "rating": { "number": 4.5, "price": "$90" },
+      "total_view": 1870,
+      "title": "Welcome To CSS3 Tutorial Part 5",
+      "author": {
+        "name": "Part 5",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+      }, 
+      "details": "The id selector uses the id attribute of an HTML element to select a specific element. The id of an element is unique within a page, so the id selector is used to select one unique element! To select an element with a specific id, write a hash (#) character, followed by the id of the element."
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb95f", 
+      "rating": { "number": 4.2, "price": "$90" },
+      "total_view": 354,
+      "title": "Welcome React Tutorial Part 2",
+      "author": {
+        "name": "Part 2",
+        "published_date": "2022-08-30 17:44:16",
+        "img": "Reacthttps://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"
+      }, 
+      "details": "If you’re interested in playing around with React, you can use an online code playground. Try a Hello World template on CodePen, CodeSandbox, or Stackblitz. If you prefer to use your own text editor, you can also download this HTML file, edit it, and open it from the local filesystem in your browser. It does a slow runtime code transformation, so we’d only recommend using this for simple demos."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f0", 
+      "category_id": "05",
+      "rating": { "number": 4.5, "price": "$90" },
+
+      "total_view": 100,
+      "title": "Welcome Tailwind CSS Part 3",
+      "author": {
+        "name": "Part 3",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://wp.5balloons.info/wp-content/uploads/2022/06/install-tailwindcss.png"
+      }, 
+      "details": "There are many components in tailwind css to design a website. All components are free to use. Explore all of components and Build your own websites. Let's get started."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7", 
+      "category_id": "04",
+      "rating": { "number": 4.5, "price": "$90" },
+
+      "total_view": 100,
+      "title": "Welcome To Bootstrap Tutorial Part 3",
+      "author": {
+        "name": "Part 3",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5-Facebbok.png"
+      }, 
+      "details": "You learned from the previous chapter that Bootstrap requires a containing element to wrap site contents. Containers are used to pad the content inside of them, and there are two container classes available: 1.The .container class provides a responsive fixed width container 2.The .container-fluid class provides a full width container, spanning the entire width of the viewport"
+    } 
+  ]
