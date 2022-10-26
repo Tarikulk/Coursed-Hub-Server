@@ -8,7 +8,7 @@
         "author": {
           "name": "Part 2",
           "published_date": "2022-08-30 16:38:45",
-          "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+          "img": "https://www.cyberdb.co/wp-content/uploads/2020/10/javascript.jpg"
         }, 
         "details": "JavaScript and Java are completely different languages, both in concept and design. JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997. ECMA-262 is the official name of the standard. ECMAScript is the official name of the language."
       },
@@ -21,7 +21,7 @@
         "author": {
           "name": "Part 3",
           "published_date": "2022-08-24 23:15:00",
-          "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+          "img": "https://www.cyberdb.co/wp-content/uploads/2020/10/javascript.jpg"
         }, 
         "details": "In HTML, JavaScript code is inserted between <script> and </script> tags. Old JavaScript examples may use a type attribute: <script type ='text/javascript'> The type attribute is not required. JavaScript is the default scripting language in HTML. A JavaScript function is a block of JavaScript code, that can be executed when 'called' for. For example, a function can be called when an event occurs, like when the user clicks a button. You will learn much more about functions and events in later chapters."
       },
@@ -34,7 +34,7 @@
         "author": {
           "name": "Part 4",
           "published_date": "2022-08-25 03:09:16",
-          "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+          "img": "https://www.cyberdb.co/wp-content/uploads/2020/10/javascript.jpg"
         }, 
         "details": "JavaScript can 'display' data in different ways:   Writing into an HTML element, using innerHTML. Writing into the HTML output using document.write(). Writing into an alert box, using window.alert(). Writing into the browser console, using console.log(). To access an HTML element, JavaScript can use the document.getElementById(id) method.The id attribute defines the HTML element. The innerHTML property defines the HTML content:"
       },
@@ -47,7 +47,7 @@
         "author": {
           "name": "Part 6",
           "published_date": "2022-08-30 18:05:42",
-          "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+          "img": "https://www.cyberdb.co/wp-content/uploads/2020/10/javascript.jpg"
         }, 
         "details": "Last month, Moscow announced plans to hold   Vostok   (East) exercises from Aug. 30 to Sept. 5, even as it wages a costly war in Ukraine. The military exercises are expected to include China, India, Belarus, Mongolia, Tajikistan and other countries, China's defense ministry has said. Asked about India's participation, Jean-Pierre told reporters as President Joe Biden flew to Pennsylvania that the United States was concerned about any country participating in military exercises with Russia while it is at war with Ukraine."
       },
@@ -60,7 +60,7 @@
         "author": {
           "name": "Part 5",
           "published_date": "2022-08-25 07:35:11",
-          "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+          "img": "https://www.cyberdb.co/wp-content/uploads/2020/10/javascript.jpg"
         }, 
         "details": "A computer program is a list of 'instructions' to be 'executed' by a computer. In a programming language, these programming instructions are called statements. A JavaScript program is a list of programming statements. In HTML, JavaScript programs are executed by the web browser.Most JavaScript programs contain many JavaScript statements. The statements are executed, one by one, in the same order as they are written. JavaScript programs (and JavaScript statements) are often called JavaScript code."
       },
@@ -73,7 +73,7 @@
         "author": {
           "name": "Part 2",
           "published_date": "2022-08-30 15:00:04",
-          "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+          "img": "https://www.cmsdrupal.com/static/c26fcd13e536c4281d4bfe14df52a551/6a8a9/html5-cool-things-you-can-do"
         }, 
         "details": "HTML stands for Hyper Text Markup Language HTML is the standard markup language for creating Web pages HTML describes the structure of a Web page  HTML consists of a series of elements HTML elements tell the browser how to display the content HTML elements label pieces of content such as 'this is a heading', 'this is a paragraph', 'this is a link', etc."
       },
@@ -86,7 +86,7 @@
         "author": {
           "name": "Part 3",
           "published_date": "2022-08-30 20:02:52",
-          "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+          "img": "https://www.cmsdrupal.com/static/c26fcd13e536c4281d4bfe14df52a551/6a8a9/html5-cool-things-you-can-do"
         }, 
         "details": "he <!DOCTYPE html> declaration defines that this document is an HTML5 document The <html> element is the root element of an HTML page The <head> element contains meta information about the HTML page The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. The <p> element defines a paragraph"
       },
@@ -99,7 +99,7 @@
         "author": {
           "name": "Part 4",
           "published_date": "2022-08-27 05:38:02",
-          "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+          "img": "https://www.cmsdrupal.com/static/c26fcd13e536c4281d4bfe14df52a551/6a8a9/html5-cool-things-you-can-do"
         }, 
         "details": "Web pages can be created and modified by using professional HTML editors. However, for learning HTML we recommend a simple text editor like Notepad (PC) or TextEdit (Mac). We believe that using a simple text editor is a good way to learn HTML.  Follow the steps below to create your first web page with Notepad or TextEdit."
       },
@@ -112,7 +112,7 @@
         "author": {
           "name": "Part 5",
           "published_date": "2022-08-30 22:00:00",
-          "img": "https://techbeacon.com/sites/default/files/styles/social/public/ html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
+          "img": "https://www.cmsdrupal.com/static/c26fcd13e536c4281d4bfe14df52a551/6a8a9/html5-cool-things-you-can-do"
         }, 
         "details": "In this chapter we will show some basic HTML examples.  Don't worry if we use tags you have not learned about yet. All HTML documents must start with a document type declaration: <!DOCTYPE html>. The HTML document itself begins with <html> and ends with </html>. The visible part of the HTML document is between <body> and </body>. <!DOCTYPE html> <html>  <body>  <h1>My First Heading</h1> <p>My first paragraph.</p>  <body> </html>"
       },
@@ -125,7 +125,7 @@
         "author": {
           "name": "Part 2",
           "published_date": "2022-08-24 23:15:00",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
         }, 
         "details": "CSS stands for Cascading Style Sheets CSS describes how HTML elements are to be displayed on screen, paper, or in other media CSS saves a lot of work. It can control the layout of multiple web pages all at once  External stylesheets are stored in CSS files. HTML was NEVER intended to contain tags for formatting a web page!.  HTML was created to describe the content of a web page, like: <h1>This is a heading</h1> <p>This is a paragraph.</p> When tags like <font>, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large websites, where fonts and color information were added to every single page, became a long and expensive process. To solve this problem, the World Wide Web Consortium (W3C) created CSS. CSS removed the style formatting from the HTML page!"
       },

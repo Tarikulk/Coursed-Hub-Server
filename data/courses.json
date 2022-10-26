@@ -2,13 +2,14 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a", 
       "category_id": "01",
-      "rating": { "number": 4.5, "price": "$90" },
+      "rating": { "number": 4.5, "price": "90" },
       "total_view": 488,
+      "total_tutorial": 5,
       "title": "Welcome To The Javascript Tutorial Part 1",
       "author": {
-        "name": "Part 1",
+        "name": "javascript",
         "published_date": "2022-08-24 17:27:34",
-        "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+        "img": "https://www.cyberdb.co/wp-content/uploads/2020/10/javascript.jpg"
       }, 
       "details": "JavaScript is the world's most popular programming language JavaScript is the programming language of the Web.  JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced."
     },
@@ -20,13 +21,14 @@
         "is_trending": true
       },
       "category_id": "02",
-      "rating": { "number": 4.3, "price": "$90" },
+      "rating": { "number": 4.3, "price": "60" },
       "total_view": 400,
+      "total_tutorial": 3,
       "title": "Welcome To HTML Tutorial Part 1",
       "author": {
-        "name": "Part 1",
+        "name": "HTML",
         "published_date": "2022-08-30 16:38:45",
-        "img": "https://cdn.pixabay.com/photo/2018/05/08/21/37/html5-3384039_960_720.png"
+        "img": "https://www.cmsdrupal.com/static/c26fcd13e536c4281d4bfe14df52a551/6a8a9/html5-cool-things-you-can-do.jpg"
       }, 
       "details": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!"
     },
@@ -34,13 +36,14 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b", 
       "category_id": "03",
-      "rating": { "number": 4.5, "price": "$90" },
+      "rating": { "number": 4.5, "price": "50" },
       "total_view": 488,
+      "total_tutorial": 4,
       "title": "Welcome To CSS3 Tutorial Part 1",
       "author": {
-        "name": "Part 1",
+        "name": "CSS3",
         "published_date": "2022-08-24 17:27:34",
-        "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+        "img": "https://kinsta.com/de/wp-content/uploads/sites/5/2022/07/elementor-custom-css-1024x512.jpg"
       }, 
       "details": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced. This CSS tutorial contains hundreds of CSS examples. With our online editor, you can edit the CSS, and click on a button to view the result."
     },
@@ -49,13 +52,14 @@
     {
       "_id": "e342b6c0c8efc8ca9e811991dc8a7900", 
       "category_id": "04",
-      "rating": { "number": 4.5, "price": "$90" },
+      "rating": { "number": 4.5, "price": "70" },
       "total_view": 733,
+      "total_tutorial": 2,
       "title": "Welcome To Bootstrap Tutorial Part 1",
       "author": {
-        "name": "Part 1",
+        "name": "Bootstrap",
         "published_date": "2022-08-25 06:03:00",
-        "img": "https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5-Facebbok.png"
+        "img": "https://www.designil.com/wp-content/uploads/2020/06/bootstrap-1-1024x512.jpg"
       }, 
       "details": "Bootstrap is a free front-end framework for faster and easier web development  Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins Bootstrap also gives you the ability to easily create responsive designs"
     },
@@ -64,13 +68,14 @@
     {
       "_id": "f06f8cc035b04bd1158e4198281915a3", 
       "category_id": "05",
-      "rating": { "number": 4.5, "price": "$90" },
+      "rating": { "number": 4.5, "price": "40" },
       "total_view": 127,
+      "total_tutorial": 2,
       "title": "Welcome Tailwind CSS Part 1",
       "author": {
-        "name": "Part 1",
+        "name": "Tailwind CSS",
         "published_date": "2022-08-25 18:53:49",
-        "img": "https://wp.5balloons.info/wp-content/uploads/2022/06/install-tailwindcss.png"
+        "img": "https://labs.tadigital.com/wp-content/uploads/2020/03/tailwind-1096x548.png"
       }, 
       "details": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file. It's fast, flexible, and reliable — with zero-runtime."
     },
@@ -79,12 +84,12 @@
     {
       "_id": "6145j3ce168f7b15aa5ecb1d134df670c72f7", 
       "category_id": "06",
-      "rating": { "number": 4.5, "price": "$90" },
-
+      "rating": { "number": 4.5, "price": "80" },
       "total_view": 100,
+      "total_tutorial": 3,
       "title": "Welcome To React Tutorial Part 1",
       "author": {
-        "name": "Part 3",
+        "name": "React JS",
         "published_date": "2022-08-26 00:37:24",
         "img": "https://www.mindinventory.com/blog/wp-content/uploads/2019/06/reactjs-benefits-1024x512.jpg"
       }, 
