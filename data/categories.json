@@ -1,17 +1,32 @@
 [
-    {
-      "id": "01",
-      "name": "Mercedes",
-      "image": "https://cdn.pocket-lint.com/r/s/970x/assets/images/162903-cars-review-mercedes-benz-eqb-300-image1-vhnnkqm4be.jpg"
-    },
-    {
-      "id": "02",
-      "name": "BMW",
-      "image": "https://images.hindustantimes.com/auto/img/2021/06/24/1600x900/The_new_BMW_5_Series_(6)_1624519084178_1624519090960.jpg"
-    },
-    {
-      "id": "03",
-      "name": "TESLA",
-      "image": "https://images.unsplash.com/photo-1617704548623-340376564e68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVzbGElMjBjYXJ8ZW58MHx8MHx8&w=1000&q=80"
-    } 
-  ]  
+  {
+    "id": "01",
+    "name": "JavaScript",
+    "img": "https://www.cyberdb.co/wp-content/uploads/2020/10/javascript.jpg"
+  },
+  {
+    "id": "02",
+    "name": "<>HTML</>",
+    "img": "https://www.cmsdrupal.com/static/c26fcd13e536c4281d4bfe14df52a551/6a8a9/html5-cool-things-you-can-do.jpg"
+  },
+  {
+    "id": "03",
+    "name": "Vanilla CSS",
+    "img": "https://kinsta.com/de/wp-content/uploads/sites/5/2022/07/elementor-custom-css-1024x512.jpg"
+  },
+  {
+    "id": "04",
+    "name": "Bootstrap 5.2",
+    "img": "https://www.designil.com/wp-content/uploads/2020/06/bootstrap-1-1024x512.jpg"
+  },
+  {
+    "id": "05",
+    "name": "Tailwind CSS",
+    "img": "https://labs.tadigital.com/wp-content/uploads/2020/03/tailwind-1096x548.png"
+  },
+  {
+    "id": "06",
+    "name": "React Library",
+    "img": "https://www.mindinventory.com/blog/wp-content/uploads/2019/06/reactjs-benefits-1024x512.jpg"
+  } 
+]  
