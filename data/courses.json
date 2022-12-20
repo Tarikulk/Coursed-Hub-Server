@@ -1,99 +1,91 @@
-[
+[ 
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a", 
       "category_id": "01",
-      "rating": { "number": 4.5, "price": "90" },
-      "total_view": 488,
-      "total_tutorial": 5,
-      "title": "Welcome To The Javascript Tutorial Part 1",
+      "price": { "originalPrice": 100000, "price": 60000 },
+      "name": "Mercedes Benz 1",
+      "YearsOfUse": 5,
+      "posted": "25 November 2022",
       "author": {
-        "name": "javascript",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://www.cyberdb.co/wp-content/uploads/2020/10/javascript.jpg"
+        "name": "Obayedullah Khan",
+        "condition": "Good",
+        "img": "https://www.kbb.com/wp-content/uploads/2020/09/2021-mercedes-benz-cls-front-3qtr.jpg",
+        "sellerImg" : "https://ibb.co/FgYY51q"
       }, 
-      "details": "JavaScript is the world's most popular programming language JavaScript is the programming language of the Web.  JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced."
+      "details": "This is second hand fresh condition  tesla car. You can get this car at 60000"
+    },
+    {
+      "category_id": "01",
+      "price": { "originalPrice": 90000, "price": 50000 },
+      "name": "Mercedes Benz 2",
+      "YearsOfUse": 6,
+      "posted": "25 November 2022",
+      "author": {
+        "name": "Tarik Khan",
+        "condition": "Excellent",
+        "img": "https://www.motortrend.com/uploads/sites/5/2021/01/Mercedes-Benz-SLR-McLaren-13.jpeg?fit=around%7C875:492",
+        "sellerImg" : "https://ibb.co/FgYY51q"
+      }, 
+      "details": "This is second hand fresh condition  tesla car. You can get this car at 50000"
     },
 
     {
-      "_id": "f69a695f037cd9484cecaea37ca71012",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "02",
-      "rating": { "number": 4.3, "price": "60" },
-      "total_view": 400,
-      "total_tutorial": 3,
-      "title": "Welcome To HTML Tutorial Part 1",
+      "price": { "originalPrice": 80000, "price": 50000 },
+      "name": "BMW IC 2",
+      "YearsOfUse": 6,
+      "posted": "25 November 2022",
       "author": {
-        "name": "HTML",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://www.cmsdrupal.com/static/c26fcd13e536c4281d4bfe14df52a551/6a8a9/html5-cool-things-you-can-do.jpg"
+        "name": "Sumaya Khan",
+        "condition": "Good",
+        "img": "https://www.bmw-me.com/content/dam/bmw/common/home/teaser/bmw-x-series-x7-hometeaser-desktop.jpg.asset.1652829130603.jpg",
+        "sellerImg" : "https://ibb.co/FgYY51q"
       }, 
-      "details": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!"
+      "details": "This is second hand fresh condition BMW car. You can get this car at 50000"
     },
 
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6b", 
+      "category_id": "02",
+      "price": { "originalPrice": 70000, "price": 40000 },
+      "name": "BMW IC 3",
+      "YearsOfUse": 3,
+      "posted": "25 November 2022",
+      "author": {
+        "name": "Umayma Khan",
+        "condition": "Fair",
+        "img": "https://www.topgear.com/sites/default/files/2022/09/1-BMW-3-Series.jpg",
+        "sellerImg" : "https://ibb.co/FgYY51q"
+      }, 
+      "details": "This is second hand fresh condition BMW car. You can get this car at 40000"
+    },
+
+    {
       "category_id": "03",
-      "rating": { "number": 4.5, "price": "50" },
-      "total_view": 488,
-      "total_tutorial": 4,
-      "title": "Welcome To CSS3 Tutorial Part 1",
+      "price": { "originalPrice": 110000, "price": 900000 },
+      "name": "Tesla RC 1",
+      "YearsOfUse": 2,
+      "posted": "25 November 2022",
       "author": {
-        "name": "CSS3",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://kinsta.com/de/wp-content/uploads/sites/5/2022/07/elementor-custom-css-1024x512.jpg"
+        "name": "Abrar Khan",
+        "condition": "Excellent",
+        "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/tesla_model_s_one_gemini_battery.jpg",
+        "sellerImg" : "https://ibb.co/FgYY51q"
       }, 
-      "details": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced. This CSS tutorial contains hundreds of CSS examples. With our online editor, you can edit the CSS, and click on a button to view the result."
-    },
-
-     
-    {
-      "_id": "e342b6c0c8efc8ca9e811991dc8a7900", 
-      "category_id": "04",
-      "rating": { "number": 4.5, "price": "70" },
-      "total_view": 733,
-      "total_tutorial": 2,
-      "title": "Welcome To Bootstrap Tutorial Part 1",
-      "author": {
-        "name": "Bootstrap",
-        "published_date": "2022-08-25 06:03:00",
-        "img": "https://www.designil.com/wp-content/uploads/2020/06/bootstrap-1-1024x512.jpg"
-      }, 
-      "details": "Bootstrap is a free front-end framework for faster and easier web development  Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins Bootstrap also gives you the ability to easily create responsive designs"
+      "details": "This is second hand fresh condition Tesla car. You can get this car at 900000"
     },
     
 
     {
-      "_id": "f06f8cc035b04bd1158e4198281915a3", 
-      "category_id": "05",
-      "rating": { "number": 4.5, "price": "40" },
-      "total_view": 127,
-      "total_tutorial": 2,
-      "title": "Welcome Tailwind CSS Part 1",
+      "category_id": "03",
+      "price": { "originalPrice": 120000, "price": 100000 },
+      "name": "Tesla RC 2",
+      "YearsOfUse": 1,
+      "posted": "25 November 2022",
       "author": {
-        "name": "Tailwind CSS",
-        "published_date": "2022-08-25 18:53:49",
-        "img": "https://labs.tadigital.com/wp-content/uploads/2020/03/tailwind-1096x548.png"
+        "name": "Ubu Khan",
+        "condition": "Excellent",
+        "img": "https://i.insider.com/6324de9642f7440018fc96d6?width=700",
+        "sellerImg" : "https://ibb.co/FgYY51q"
       }, 
-      "details": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file. It's fast, flexible, and reliable — with zero-runtime."
-    },
-    
-     
-    {
-      "_id": "6145j3ce168f7b15aa5ecb1d134df670c72f7", 
-      "category_id": "06",
-      "rating": { "number": 4.5, "price": "80" },
-      "total_view": 100,
-      "total_tutorial": 3,
-      "title": "Welcome To React Tutorial Part 1",
-      "author": {
-        "name": "React JS",
-        "published_date": "2022-08-26 00:37:24",
-        "img": "https://www.mindinventory.com/blog/wp-content/uploads/2019/06/reactjs-benefits-1024x512.jpg"
-      }, 
-      "details": "You learned from the previous chapter that Bootstrap requires a containing element to wrap site contents. Containers are used to pad the content inside of them, and there are two container classes available: 1.The .container class provides a responsive fixed width container 2.The .container-fluid class provides a full width container, spanning the entire width of the viewport"
+      "details": "This is second hand fresh condition Tesla car. You can get this car at 100000"
     }
-    
   ]
